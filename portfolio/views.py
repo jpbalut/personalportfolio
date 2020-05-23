@@ -7,3 +7,6 @@ def home(request):
 
 def resume(request):
 	return render(request, 'portfolio/resume.html')
+
+def crossfit(request):
+	return render(request, 'portfolio/crossfit.html')
