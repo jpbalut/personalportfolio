@@ -28,7 +28,7 @@ olefile==0.46
 openpyxl==3.0.3
 pandas==1.0.3
 pdfminer.six==20181108
-Pillow==7.1.1
+Pillow==9.0.0
 protobuf==3.11.4
 pycryptodome==3.9.7
 pyparsing==2.4.7
