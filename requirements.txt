@@ -18,7 +18,7 @@ idna==2.9
 IMAPClient==2.1.0
 imutils==0.5.3
 jdcal==1.4.1
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.2.0
 lxml==4.5.0
 matplotlib==3.2.1
